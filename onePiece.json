@@ -1,0 +1,54 @@
+{
+    "perguntas" : [
+        {
+            "pergunta":"Qual o cargo de Monkey D. Garp na Marinha?",
+            "alternativas": {
+                "1": "Almirante",
+                "2": "Vice-Almirante",
+                "3": "Almirante de Frota",
+                "4": "Capitão"
+            },
+            "correta": "Vice-Almirante"
+        },
+        {
+            "pergunta":"Qual desses era um pirata de Gol D. Roger?",
+            "alternativas": {
+                "1": "Luffy",
+                "2": "Aokiji",
+                "3": "Doflamingo",
+                "4": "Rayleigh"
+            },
+            "correta": "Rayleigh"
+        },
+        {
+            "pergunta":"Qual o maior obstáculo dos usuários de uma Akuma no Mi?",
+            "alternativas": {
+                "1": "Eles não pode se ferir",
+                "2": "Eles não podem falar",
+                "3": "Eles não podem nadar",
+                "4": "Não há obstáculos para eles"
+            },
+            "correta": "Eles não podem nadar"
+        },
+        {
+            "pergunta":"Rob Lucci é um ex-membro de qual dessas organizações?",
+            "alternativas": {
+                "1": "Marinha",
+                "2": "CP9",
+                "3": "Shichibukai",
+                "4": "Pirata"
+            },
+            "correta": "CP9"
+        },
+        {
+            "pergunta":"Qual desses é um Chapéu de Palha?",
+            "alternativas": {
+                "1": "Buggy",
+                "2": "Gol D. Roger",
+                "3": "Shanks",
+                "4": "Franky"
+            },
+            "correta": "Franky"
+        }
+        ]
+}
